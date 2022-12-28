@@ -19,7 +19,7 @@ function preload(){
   gameOverImg = loadImage("gameOver.png")
   catImg = loadImage("dog.png")
   dieSound = loadSound("die.mp3")
-  checkPointSound = loadSound("checkPoint.mp3")
+  checkPointSound = loadSound("checkpoint.mp3")
 }
 
 function setup() {
